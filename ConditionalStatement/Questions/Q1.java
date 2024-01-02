@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class Q1 {
   public static void main(String[] args) {
     Scanner scn = new Scanner(System.in);
@@ -10,12 +9,9 @@ public class Q1 {
 
     if (number < 0) {
       System.out.println("Negative Number!.");
-    }
-    else if (number == 0)
-    {
+    } else if (number == 0) {
       System.out.println("Number is Zero!");
-    }
-    else{
+    } else {
       System.out.println("Positive Number!.");
     }
   }
