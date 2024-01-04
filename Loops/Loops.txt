@@ -1,0 +1,7 @@
+DIfference b/w While and For .
+
+*** Imp.
+
+We use For Loop when we already know the number of itreations in advance. Example = Print 1 to n, sum of 1 to n numbers, even series, Fibonacci series.
+
+We use While Loop when we don't know the number of itreations in advance. Example = prime number, sum of digits of a number, search element in an array.
