@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Q4",
+            "request": "launch",
+            "mainClass": "Loops.Questions.Q4",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "Q3",
+            "request": "launch",
+            "mainClass": "Loops.Questions.Q3",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "Q2",
+            "request": "launch",
+            "mainClass": "Loops.Questions.Q2",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
             "name": "Q1",
             "request": "launch",
             "mainClass": "Loops.Questions.Q1",
