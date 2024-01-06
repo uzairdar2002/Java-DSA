@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CharacterPattern",
+            "request": "launch",
+            "mainClass": "Patterns.CharacterPattern",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "HalfPyramid",
+            "request": "launch",
+            "mainClass": "Patterns.HalfPyramid",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "InvertStarPattern",
+            "request": "launch",
+            "mainClass": "Patterns.InvertStarPattern",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop",
+            "request": "launch",
+            "mainClass": "Patterns.NestedLoop",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
             "name": "Q4",
             "request": "launch",
             "mainClass": "Loops.Questions.Q4",
