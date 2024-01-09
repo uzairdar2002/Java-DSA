@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DecimalToBinary",
+            "request": "launch",
+            "mainClass": "FunctionsMethods.DecimalToBinary",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "BinaryToDecimal",
+            "request": "launch",
+            "mainClass": "FunctionsMethods.BinaryToDecimal",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
             "name": "PrimesInRange",
             "request": "launch",
             "mainClass": "FunctionsMethods.PrimesInRange",
