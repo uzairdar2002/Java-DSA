@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimesInRange",
+            "request": "launch",
+            "mainClass": "FunctionsMethods.PrimesInRange",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "PrimeOrNot2",
+            "request": "launch",
+            "mainClass": "FunctionsMethods.PrimeOrNot2",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "PrimeOrNot",
+            "request": "launch",
+            "mainClass": "FunctionsMethods.PrimeOrNot",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "BionomialCoefficient",
+            "request": "launch",
+            "mainClass": "FunctionsMethods.BionomialCoefficient",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "FunctionsMethods.Factorial",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "Product",
+            "request": "launch",
+            "mainClass": "FunctionsMethods.Product",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "FunctionsWithParameters",
+            "request": "launch",
+            "mainClass": "FunctionsMethods.FunctionsWithParameters",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "FunctiondBasic",
+            "request": "launch",
+            "mainClass": "FunctionsMethods.FunctiondBasic",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
             "name": "CharacterPattern",
             "request": "launch",
             "mainClass": "Patterns.CharacterPattern",
