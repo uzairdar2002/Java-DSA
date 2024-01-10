@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Q5",
+            "request": "launch",
+            "mainClass": "FunctionsMethods.Questions.Q5",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "Q4",
+            "request": "launch",
+            "mainClass": "FunctionsMethods.Questions.Q4",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "Q3",
+            "request": "launch",
+            "mainClass": "FunctionsMethods.Questions.Q3",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "Q2",
+            "request": "launch",
+            "mainClass": "FunctionsMethods.Questions.Q2",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "Q1",
+            "request": "launch",
+            "mainClass": "FunctionsMethods.Questions.Q1",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
             "name": "DecimalToBinary",
             "request": "launch",
             "mainClass": "FunctionsMethods.DecimalToBinary",
