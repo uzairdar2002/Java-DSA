@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InvertedHalfNumPyramid",
+            "request": "launch",
+            "mainClass": "PatternsAdvance.InvertedHalfNumPyramid",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "InvertRotatedHalfPyramid",
+            "request": "launch",
+            "mainClass": "PatternsAdvance.InvertRotatedHalfPyramid",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "HollowRectangle",
+            "request": "launch",
+            "mainClass": "PatternsAdvance.HollowRectangle",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
             "name": "Q5",
             "request": "launch",
             "mainClass": "FunctionsMethods.Questions.Q5",
