@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DiamondPattern",
+            "request": "launch",
+            "mainClass": "PatternsAdvance.DiamondPattern",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
             "name": "HollowRhombus",
             "request": "launch",
             "mainClass": "PatternsAdvance.HollowRhombus",
