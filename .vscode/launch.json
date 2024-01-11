@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HollowRhombus",
+            "request": "launch",
+            "mainClass": "PatternsAdvance.HollowRhombus",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "SolidRhombus",
+            "request": "launch",
+            "mainClass": "PatternsAdvance.SolidRhombus",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "ButterFly",
+            "request": "launch",
+            "mainClass": "PatternsAdvance.ButterFly",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "ZeroOneTriangle",
+            "request": "launch",
+            "mainClass": "PatternsAdvance.ZeroOneTriangle",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "FloydsTriangle",
+            "request": "launch",
+            "mainClass": "PatternsAdvance.FloydsTriangle",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
             "name": "InvertedHalfNumPyramid",
             "request": "launch",
             "mainClass": "PatternsAdvance.InvertedHalfNumPyramid",
