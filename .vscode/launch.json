@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "Arrays.Part1.BinarySearch",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "LargestInArray",
+            "request": "launch",
+            "mainClass": "Arrays.Part1.LargestInArray",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "Arrays.Part1.LinearSearch",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays.Part1.Arrays",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
             "name": "DiamondPattern",
             "request": "launch",
             "mainClass": "PatternsAdvance.DiamondPattern",
