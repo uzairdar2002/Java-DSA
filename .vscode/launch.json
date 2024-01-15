@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SubArrays",
+            "request": "launch",
+            "mainClass": "Arrays.Part1.SubArrays",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "PairsInAray",
+            "request": "launch",
+            "mainClass": "Arrays.Part1.PairsInAray",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "Arrays.Part1.ReverseArray",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
             "name": "BinarySearch",
             "request": "launch",
             "mainClass": "Arrays.Part1.BinarySearch",
