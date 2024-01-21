@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BuySellStocks",
+            "request": "launch",
+            "mainClass": "Arrays.Part2.BuySellStocks",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "TrappedrainWater",
+            "request": "launch",
+            "mainClass": "Arrays.Part2.TrappedrainWater",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "KadanesAlgor",
+            "request": "launch",
+            "mainClass": "Arrays.Part2.KadanesAlgor",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "MaxSubArraySum2",
+            "request": "launch",
+            "mainClass": "Arrays.Part2.MaxSubArraySum2",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "MaxSubArraySum",
+            "request": "launch",
+            "mainClass": "Arrays.Part2.MaxSubArraySum",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
             "name": "SubArrays",
             "request": "launch",
             "mainClass": "Arrays.Part1.SubArrays",
