@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountingSort",
+            "request": "launch",
+            "mainClass": "BasicSortingAlgorithims.CountingSort",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "InbuildSorting",
+            "request": "launch",
+            "mainClass": "BasicSortingAlgorithims.InbuildSorting",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "BasicSortingAlgorithims.InsertionSort",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "BasicSortingAlgorithims.SelectionSort",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BasicSortingAlgorithims.BubbleSort",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
             "name": "BuySellStocks",
             "request": "launch",
             "mainClass": "Arrays.Part2.BuySellStocks",
