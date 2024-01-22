@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SpiralMatrix",
+            "request": "launch",
+            "mainClass": "TwoDArrays.SpiralMatrix",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "TwoDArrays",
+            "request": "launch",
+            "mainClass": "TwoDArrays.TwoDArrays",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
             "name": "CountingSort",
             "request": "launch",
             "mainClass": "BasicSortingAlgorithims.CountingSort",
