@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SearchInSortedMatrix",
+            "request": "launch",
+            "mainClass": "TwoDArrays.SearchInSortedMatrix",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "DiagonalSum",
+            "request": "launch",
+            "mainClass": "TwoDArrays.DiagonalSum",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
             "name": "SpiralMatrix",
             "request": "launch",
             "mainClass": "TwoDArrays.SpiralMatrix",
