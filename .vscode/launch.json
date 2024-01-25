@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringCompression",
+            "request": "launch",
+            "mainClass": "StringsJava.StringCompression",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "ToUppercase",
+            "request": "launch",
+            "mainClass": "StringsJava.ToUppercase",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "StingBuilder",
+            "request": "launch",
+            "mainClass": "StringsJava.StingBuilder",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "PrintLargestString",
+            "request": "launch",
+            "mainClass": "StringsJava.PrintLargestString",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "Substring",
+            "request": "launch",
+            "mainClass": "StringsJava.Substring",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "StringComparison",
+            "request": "launch",
+            "mainClass": "StringsJava.StringComparison",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "ShortestPath",
+            "request": "launch",
+            "mainClass": "StringsJava.ShortestPath",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "StringsJava.Palindrome",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "CharAt",
+            "request": "launch",
+            "mainClass": "StringsJava.CharAt",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "StringConcat",
+            "request": "launch",
+            "mainClass": "StringsJava.StringConcat",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "StringLength",
+            "request": "launch",
+            "mainClass": "StringsJava.StringLength",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "StringsJava.Strings",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "String",
+            "request": "launch",
+            "mainClass": "Strings.String",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
             "name": "SearchInSortedMatrix",
             "request": "launch",
             "mainClass": "TwoDArrays.SearchInSortedMatrix",
