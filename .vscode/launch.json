@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ClearithBit",
+            "request": "launch",
+            "mainClass": "BitManipulation.ClearithBit",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "SteithBit",
+            "request": "launch",
+            "mainClass": "BitManipulation.SteithBit",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "GetithBit",
+            "request": "launch",
+            "mainClass": "BitManipulation.GetithBit",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "OddEven",
+            "request": "launch",
+            "mainClass": "BitManipulation.OddEven",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "RightShift",
+            "request": "launch",
+            "mainClass": "BitManipulation.RightShift",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "LeftShift",
+            "request": "launch",
+            "mainClass": "BitManipulation.LeftShift",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "OnesComplement",
+            "request": "launch",
+            "mainClass": "BitManipulation.OnesComplement",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "BitwiseXoR",
+            "request": "launch",
+            "mainClass": "BitManipulation.BitwiseXoR",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "BitwiseOr",
+            "request": "launch",
+            "mainClass": "BitManipulation.BitwiseOr",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "BitwiseAnd",
+            "request": "launch",
+            "mainClass": "BitManipulation.BitwiseAnd",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
             "name": "StringCompression",
             "request": "launch",
             "mainClass": "StringsJava.StringCompression",
