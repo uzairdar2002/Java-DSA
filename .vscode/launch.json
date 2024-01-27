@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OOPS",
+            "request": "launch",
+            "mainClass": "ObjectOrientedProgramming.OOPS",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
             "name": "ClearithBit",
             "request": "launch",
             "mainClass": "BitManipulation.ClearithBit",
