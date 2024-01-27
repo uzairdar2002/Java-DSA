@@ -15,7 +15,7 @@ class Student {
     int rollNo;
 
     Student() {
-        System.out.println("Constructor is called....");
+        System.out.println("Constructor is called...."); // Default.
     }
 
     Student(String name) {
@@ -24,7 +24,7 @@ class Student {
     }
 
     Student(int rollNo) {
-        this.rollNo = rollNo;
+        this.rollNo = rollNo; // Parameterized .
     }
 
 }
