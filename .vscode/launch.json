@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ClearLastithBit",
+            "request": "launch",
+            "mainClass": "BitManipulation.ClearLastithBit",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
             "name": "OOPS",
             "request": "launch",
             "mainClass": "ObjectOrientedProgramming.OOPS",
