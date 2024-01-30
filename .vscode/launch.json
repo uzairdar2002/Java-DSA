@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SUmOfNatural",
+            "request": "launch",
+            "mainClass": "Recursion.SUmOfNatural",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Recursion.Factorial",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "NumsInIncreasingOrder",
+            "request": "launch",
+            "mainClass": "Recursion.NumsInIncreasingOrder",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
+            "name": "NumsInDecreasingOrder",
+            "request": "launch",
+            "mainClass": "Recursion.NumsInDecreasingOrder",
+            "projectName": "Java-DSA_e8a35472"
+        },
+        {
+            "type": "java",
             "name": "ClearLastithBit",
             "request": "launch",
             "mainClass": "BitManipulation.ClearLastithBit",
